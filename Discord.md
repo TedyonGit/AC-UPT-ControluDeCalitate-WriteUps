@@ -2,7 +2,7 @@
 
 Ah, the infamous Discord challenge. What could it be this time?
 
-- Ok, this was a bit tricky because we tought is more into it, but wasn't. Instead was a bot bait just to throw us off.
+- Ok, this was a bit tricky because we thought is more into it, but wasn't. Instead was a bot bait just to throw us off.
 - So, like any other team we tried the discord bot that was on the server with the command ``/flag`` or ``/help``, but wasn't useful at all because the bot was just replying with recipe of some dishes. We even tried to add the bot to a new server or send a direct message, but that wasn't the case.
 - Some time passes and we almost gave up, until the hint drop and we carefully analyze every inch of the hint. Why i say "carefully"? Because the uppercased work "everything" was the answer.
 - After the hint we searched every channel, pinned messages, but still wasn't there until he checked emoji and STICKERS.
