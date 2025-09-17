@@ -21,7 +21,7 @@ principal() {
     scrie!("{}", output_str.trim());
 }
 ```
-- We analyze the repository again to check if we made some mistakes, but we didn't. Some time passed and one of us pointed out that "only the errors are shown and not the normal print". In that case we changed from a normal println to change to panic and in that moment worked.
+- We analyze the repository again to check if we made some mistakes, but we didn't. Some time passed and one of us pointed out that "only the errors are shown and not the normal print". In that case we changed from a normal println to panic and in that moment worked.
 
 ```rust
 principal() {
