@@ -11,4 +11,5 @@ We must leave this planet at exactly 18:00 UTC+2 on 7th of November 2025. Leavin
 
 
 - Solution: https://www.planetscalc.org/#/41.3949,2.1755,11/2025.11.07/16:00/2/3
+
 Flag: ctf{361,285 M km}
