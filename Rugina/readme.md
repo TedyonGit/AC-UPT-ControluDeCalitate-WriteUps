@@ -39,3 +39,5 @@ principal() {
 ![rugina-flag](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/Rugina/rugina-flag.png)
 
 - And this is how we got the flag out
+
+Flag: ctf{73523e676b04e1c2db176d8035648893648b969f5ddf5ac40f8fc5b6c15d8692}
