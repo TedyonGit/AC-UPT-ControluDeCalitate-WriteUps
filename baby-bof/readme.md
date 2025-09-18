@@ -39,7 +39,7 @@ python3 -c "import sys; sys.stdout.buffer.write(b'A'*63 + b'B'*10)"
 
 - Oh, we got a crash. Did we manage to control the flow? Let's add some C's just to be sure:
 
-![63a10b5c](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/baby-bof/64a10b5c.png)
+![63a10b5c](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/baby-bof/63a10b5c.png)
 
 ```python
 python3 -c "import sys; sys.stdout.buffer.write(b'A'*63 + b'B'*10 + b'C'*5)"
