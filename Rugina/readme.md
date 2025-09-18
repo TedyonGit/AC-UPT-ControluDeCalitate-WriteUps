@@ -12,7 +12,7 @@ principal() {
 }
 ```
 
-![rugina-principal](https://raw.githubusercontent.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/refs/heads/main/Rugina/rugina-principal.png?token=GHSAT0AAAAAADLHV3EBVWK4MZJ2WRCATJ4M2GLUMWA)
+![rugina-principal](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/Rugina/rugina-principal.png)
 
 - After we manage to create some code that worked, but we saw that wasn't printing anything
 
@@ -24,7 +24,7 @@ principal() {
 }
 ```
 
-![rugina-principal](https://raw.githubusercontent.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/refs/heads/main/Rugina/rugina-println.png?token=GHSAT0AAAAAADLHV3EAVFKRITU7OSZ2ZJZ42GLUMXA)
+![rugina-println](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/Rugina/rugina-println.png)
 
 - We analyze the repository again to check if we made some mistakes, but we didn't. Some time passed and one of us pointed out that "only the errors are shown and not the normal print". In that case we changed from a normal println to panic and in that moment worked.
 
@@ -36,6 +36,6 @@ principal() {
 }
 ```
 
-![rugina-principal](https://raw.githubusercontent.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/refs/heads/main/Rugina/rugina-flag.png?token=GHSAT0AAAAAADLHV3EAWUBPUAXQY2ERFALW2GLUMVQ)
+![rugina-flag](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/Rugina/rugina-flag.png)
 
 - And this is how we got the flag out
