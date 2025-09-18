@@ -16,3 +16,4 @@ Solved Challenges:
 - [disco rave](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/disco%20rave)
 - [dot private key](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/dot%20private%20key)
 - [random gallery](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/random%20gallery)
+- [Hidden in the Cartridge](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/Hidden%20in%20the%20Cartridge)
