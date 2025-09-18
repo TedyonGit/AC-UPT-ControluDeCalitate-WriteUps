@@ -9,4 +9,4 @@ Solved Challenges:
 - [Escaping Barcelona](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/Escaping%20Barcelona)
 - [Baofeng](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/Baofeng)
 - [baby-bof](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/baby-bof)
-- [lolchat](url)](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/lolchat)
+- [lolchat](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/tree/main/lolchat)
