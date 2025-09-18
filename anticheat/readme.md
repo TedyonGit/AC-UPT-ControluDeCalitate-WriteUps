@@ -51,19 +51,6 @@ print("key.bin decrypted → see bin_decrypted.txt")
 Script output: Y3RmezhhMTFkZWM3OTU4ODA4ZjAxNDVhYThiYjk1OGYyMzMyYTUzYjZjMjEwNzc2YWRiOTI2NDczOGI5YTMxZjY1Y2Z9
 Decoded base64: ctf{8a11dec7958808f0145aa8bb958f2332a53b6c210776adb9264738b9a31f65cf}
 
-
-# Hidden in the Cartridge
-
-I used strings command and it revealed some game logs and at the end of each log there was hex data, I removed the junk "$$$" and it converted it to ascii characters to get the flag.
-
-Filtered data
-```
-6374667b3966316234333831
-613563363666633064363139
--p356235333838626565643839
-66323538323234387d
-```
-
 HEX to ascii
 ```
 ctf{9f1b4381a5c66fc0d6195b5388beed89f2582248}
