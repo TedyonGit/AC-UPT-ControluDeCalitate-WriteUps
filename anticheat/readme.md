@@ -2,7 +2,7 @@
 
 After downloading the zip archive and endless scrolling through the 10.000 files I sorted them by file type and saw a .bin file. After a lot of tries I found out the encryption was RC4 bu that was not enough, I needed a mask key. In challenge description was mentioned vanguard so I searched about it's encryption and found a decryptor on unknowncheats forum and it seems the mask key in that post was used in this challenge. I created a python script to decrypt the .bin file using that mask key and I eneded up with a base64 text which revealed the flag.
 
-```
+```python
 import struct
 from pathlib import Path
 
