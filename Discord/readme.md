@@ -15,7 +15,13 @@ Ah, the infamous Discord challenge. What could it be this time?
 
   ![Stickers](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/Discord/stickers.png)
 - In the stickers we found a QR code, but at first wasn't working, so we played a bit with it and we changed saturation, size, etc. And in the end we get redirected to a website with the flag formated in the link.
-- And this was the whole challenge and it was fun and confusing :D
+```
+https://example.com/?flag=ctf%7B9096dbeab272bd4d02ea9a5e0f66568ab274b2096f8be3933a48131f8e4db907%7D
+```
+- And there it was the flag :D
+
+Flag: ctf{9096dbeab272bd4d02ea9a5e0f66568ab274b2096f8be3933a48131f8e4db907}
+
 
 # Sticker
 ![QR](https://i.imgur.com/vDqjEUY.png)
