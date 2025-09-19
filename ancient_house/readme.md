@@ -4,6 +4,10 @@ Having set out into the world, the elder brother stopped in a kingdom where he p
 What is the name of this house?
 Flag format: CTF{the_name} (case insensitive and ascii characters only)
 
-![]()
+![attached](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/ancient_house/image.jpg)
 
 I reconstructed the image based on description (thanks to hint), I only added 3 red dots in top left using ChatGPT and looked up for similar images on Yandex image search. I found a really similar image and it was the coat of arms of Dumbrava. I dont understand why it asked "What is the name of this house?", took me 2 hours looking for ancient houses in Dumbrava and just out of madness I tried Dumbrava as flag.
+
+![reconstruct](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/ancient_house/reconstruct.png)
+
+Flag: ctf{dumbrava}
