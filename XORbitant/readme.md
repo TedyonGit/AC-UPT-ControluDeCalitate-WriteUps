@@ -4,7 +4,7 @@ Let us master the primordial cryptoanalysis technique. May the first ring of cry
 
 - On this challenge we had a ``.bin`` file that was encrypted with the ``enc.py``.
 
-- In order to recover the flag we needed to find the key, so we came up with a python script that fix that for us.
+- In order to recover the flag we needed to find the key, so we came up with a python script that solves that for us.
 
 ```python
 #!/usr/bin/env python3
