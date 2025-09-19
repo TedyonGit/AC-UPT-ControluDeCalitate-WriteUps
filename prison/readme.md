@@ -4,6 +4,8 @@ You're going to prison kid.There's no way around that. Take a good look and lear
 Flag format: either CTF{server_host(ChunkX,ChunkY,ChunkZ)} (case insensitive and ascii characters only)-Careful, these are chunk coordinates, not block coordinates. or if you don't have a minecraft account: CTF{server_host:owner_username}
 Example: CTF{mc.hypixel.net(-69,420,10)} or CTF{mc.hypixel.net:hypixel}
 
+![prison](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/prison.png)
+
 - In this challenge we need to find a specific chunk and a minecraft server.
 - In that case we extract unique features that can help us in finding it.
 
