@@ -71,6 +71,6 @@ SrWarden - Senior Administrator Position
 ![foundroom](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/foundroom.png)
 
 - And there we go! We found it! With minor changes, but we found it :D
-- All we have to do is just to format the flag and that's it! Flag: ctf{play.thepen-mc.net(-215,4,35)}
+- All we have to do is just to format the flag and that's it! Flag: ctf{play.thepen-mc.net(-215,4,35)} or ctf{play.thepen-mc.net:Leaky_Tandos}
 
 ![happyending](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/happyending.png)
