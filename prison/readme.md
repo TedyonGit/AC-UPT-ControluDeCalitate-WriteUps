@@ -9,7 +9,7 @@ Example: CTF{mc.hypixel.net(-69,420,10)} or CTF{mc.hypixel.net:hypixel}
 - In this challenge we need to find a specific chunk and a minecraft server.
 - In that case we extract unique features that can help us in finding it.
 
-- First, we see some custom rank names, let's strat with that. Open up google and search for:
+- First, we see some custom rank names, let's start with that. Open up google and search for:
 
 ```
 what minecraft server has server ranks "srwarden", "srguard"
