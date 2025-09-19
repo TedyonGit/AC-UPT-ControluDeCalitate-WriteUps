@@ -4,7 +4,7 @@ Dance to the rhythm of your hear...SIGKILLED
 
 - On this challenge we find attached 3 files ``plugin.c, main.c and server.py``. Let's run the program to see what are we dealing with.
 
-![first_run]()
+![first_run](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/sigdance/first_run.png)
 
 - We see that every message we type we get ``nope``. In that case we need to find a right input to get the input. Let's open ``main.c`` to see what we need to type.
 
@@ -223,11 +223,11 @@ printf("%d %d\n", ac, uc)
 
 - First execution of printf:
 
-![first_printf]()
+![first_printf](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/sigdance/first_printf.png)
 
 - Second:
 
-![second_printf]()
+![second_printf](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/sigdance/second_printf.png)
 
 - Bingo! So we see ``A`` and ``U`` are static values ``0``, ``13`` and we also get PID from the print when we are connecting to the server. All we have to do is to create a script in python to connect to the host and read the message and compute the input by ``verify`` function rules.
 
@@ -263,11 +263,11 @@ except socket.error:
 
 - Let's see if it works or not.
 
-![bingo]()
+![bingo](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/sigdance/bingo.png)
 
 - Bingo! Now let's try it on the ctf's host.
 
-![]()
+![solve](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/sigdance/solve.png)
 
 - GG! We found our flag: CTF{cbc4e1be639219dad8912bb764b566200023e15152635eef87be047c41bd995a}
 
