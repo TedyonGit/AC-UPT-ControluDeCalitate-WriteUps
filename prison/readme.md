@@ -19,9 +19,9 @@ what minecraft server has server ranks "srwarden", "srguard"
 what minecraft server has server ranks "srwarden", "srguard" reddit
 ```
 
-- We got a bunch of results and we the name "The Pen", we might be on the right track. Let's open the first reddit post.
+- We got a bunch of results and we the name "The Pen", we might be on the right track. Let's open the first [reddit post](https://www.reddit.com/r/MinecraftServer/comments/1jdtu2x/the_pen_classic_prison_server/).
 
-![]()
+![srguardsearch](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/searchsrguard.png)
 
 ```
 Guard - Ensures safety of Prisoners, enforces rules, and takes Contraband
@@ -38,42 +38,39 @@ SrWarden - Senior Administrator Position
 
 - Direct connection
 
-![]()
+![directconnect](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/directconnect.png)
 
 - Join server
 
-![]()
+![joinserver](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/joinserver.png)
 
 - We connected to the server and we need to do a tutorial.
 
-![]()
+![tutorialserver](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/tutorialserver.png)
 
 - Is not much of a tutorial, all you need to do is just move forward and click on the NPC to ``complete the tutorial``. But we see something familiar. The ``warden`` rank.
 
-![]()
+![completetutorial](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/completetutorial.png)
 
 - Let's proceed forward to see if we found the room or not.
 
 - Go right and leave the bus
 
-![]()
+![inbus](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/inbus.png)
 
 - Go forward to enter the gate
 
-![]()
+![leavebus](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/leavebus.png)
 
 - Go right again to enter the building
 
-![]()
+![enterbuilding](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/enterbuilding.png)
 
 - On the left side we find ``staff room``
 
-![]()
+![foundroom](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/foundroom.png)
 
 - And there we go! We found it! With minor changes, but we found it :D
-
-![]()
-
 - All we have to do is just to format the flag and that's it! Flag: ctf{play.thepen-mc.net(-215,4,35)}
 
-![happyending]()
+![happyending](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/prison/happyending.png)
