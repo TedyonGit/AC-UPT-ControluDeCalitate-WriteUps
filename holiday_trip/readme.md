@@ -5,6 +5,6 @@ So he sent me a photo saying, “Picked one up for you and left it at the our pa
 Your mission: help me find the beach where my brother bought the mug in order to get it from my father.
 Flag format: CTF{the_name_of_the_beach} (case insensitive and ascii characters only in either english,romanian or the native country's language )
 
-![]()
+![poza](https://github.com/TedyonGit/AC-UPT-ControluDeCalitate-WriteUps/blob/main/holiday_trip/holiday_trip.jpg)
 
 Pe fotografie, în partea de sus, era o cană cu denumirea plajei
