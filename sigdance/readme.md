@@ -166,9 +166,6 @@ compute_counts(&A, &U);
 ...
 
 int ok = verify(prov, (uint32_t)A, (uint32_t)U, PID);
-
-ac = A
-uc = U
 ```
 
 - At the beginning of the function ``main`` those 2 values are initated with the function ``compute_counts``, let's check that function as well.
